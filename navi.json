@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "navTitle": "About",
+            "navLink": "#about",
+            "navTarget": "",
+            "navClass": "about",
+            "isNav": true
+        },
+        {
+            "navTitle": "Skills",
+            "navLink": "#skills",
+            "navTarget": "",
+            "navClass": "skills",
+            "isNav": true
+        },
+        {
+            "navTitle": "Portfolio",
+            "navLink": "#portfolio",
+            "navTarget": "",
+            "navClass": "portfolio",
+            "isNav": true
+        },
+        {
+            "navTitle": "Interview",
+            "navLink": "#interview",
+            "navTarget": "",
+            "navClass": "interview",
+            "isNav": true
+        },
+        {
+            "navTitle": "Interview",
+            "navLink": "#interview",
+            "navTarget": "",
+            "navClass": "interview",
+            "isNav": true
+        },
+        {
+            "navTitle": "Interview",
+            "navLink": "#interview",
+            "navTarget": "",
+            "navClass": "interview",
+            "isNav": true
+        }
+    ],
+    [
+        {
+            "toolImg" : "이미지경로", 
+            "toolClass" : "fa-brands fa-github"              
+        },    
+        {
+            "toolImg" : "이미지경로",
+            "toolClass" : "fa-brands fa-neos"            
+        },     
+        {
+            "toolImg" : "이미지경로",
+            "tooltoolClass" : "fa-brands fa-insta"            
+        },
+        {    
+            "toolImg" : "이미지경로",
+            "toolClass" : "fa-brands fa-kakao"            
+        }
+    ],
+    [
+        {
+            "stackNm1" : ["javaScript", "54%","fa-brands fa-neos" ],           
+            "stackNm2" : ["HTML", "23.6%","fa-brands fa-neos" ],
+            "stackNm3" : ["CSS", "23.6%","fa-brands fa-neos" ]       
+        }
+    ]
+]

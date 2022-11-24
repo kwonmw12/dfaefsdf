@@ -1,0 +1,26 @@
+[
+    [
+        {
+            "pf_mainTitle" : "portfolio_01",
+            "Pf_mainImg" : "/json_DB_AJAX/portfolio/linkImg/portfolio_01.png",
+            "pf_mainClass" : "portfolio"
+        },
+        {
+            "pf_mainTitle" : "portfolio_02",
+            "Pf_mainImg" : "/json_DB_AJAX/portfolio/linkImg/portfolio_02.png",
+            "pf_mainClass" : "portfolio"
+        },
+        {
+            "pf_mainTitle" : "portfolio_03",
+            "Pf_mainImg" : "/json_DB_AJAX/portfolio/linkImg/portfolio_03.png",
+            "pf_mainClass" : "portfolio"
+        }
+    ],
+    [
+        {
+            "descriptionH2" : "트로스트 광고 페이지",
+            
+            "description" : "트로스트의 취지와 기능을 소개하고 그 이미지에 맞는 광고 페이지를 기획 및 제작 하였습니다. <br>빠른 유지/보수 그리고 서능최적화를 위해 데이터 바인딩 하였습니다."
+        }
+    ]
+]
